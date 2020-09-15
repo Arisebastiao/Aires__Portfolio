@@ -1,2 +1,2 @@
 # Aires_Portfolio
-Data analyses projects
+This repository is intended to demonstrate my skills as a analyst in my journey to become a Data Analyst transforming the world one cell at time!
