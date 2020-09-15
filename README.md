@@ -1,2 +1,2 @@
 # Aires_Portfolio
-This repository is intended to demonstrate my skills as a analyst in my journey to become a Data Analyst transforming the world one cell at time!
+This repository is intended to answer to the following question: Should I buy apple stocks?
